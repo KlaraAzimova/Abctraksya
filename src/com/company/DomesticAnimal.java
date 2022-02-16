@@ -8,7 +8,6 @@ public class DomesticAnimal {
 
 
     public DomesticAnimal() {
-
     }
 
     public DomesticAnimal(double weight, int age, char gender, String nickName) {
